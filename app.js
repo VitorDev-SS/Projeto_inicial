@@ -22,7 +22,7 @@ function verificarChute() {
         limparCampo();
         return;
     }
-    
+
     if (chute == numeroSecreto) {
         exibirTextoNaTela('h1', 'Acertou!');
         let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
