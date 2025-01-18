@@ -17,6 +17,11 @@ exibirMensagemInicial();
 
 function verificarChute() {
     let chute = document.querySelector('input').value;
+    if(isNaN (chute) || chute > 40 || chute < 1) {
+        alert("Escolha um número válido");
+        limparCampo();
+        return;
+    }
     
     if (chute == numeroSecreto) {
         exibirTextoNaTela('h1', 'Acertou!');
@@ -33,7 +38,8 @@ function verificarChute() {
         tentativas++;
         limparCampo();
     }
-}
+   }
+
 
 function gerarNumeroAleatorio() {
     let numeroEscolhido = parseInt(Math.random() * numeroLimite + 1);
