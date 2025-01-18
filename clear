@@ -1,0 +1,23 @@
+[33mcommit c542487e381847c6b36c3f57671d901b5b99157e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: João Vitor <joaovitor16.dev@gmail.com>
+Date:   Tue Jan 14 11:15:38 2025 -0300
+
+    atualizando número para 40
+
+[33mcommit b1eed90f882ad9ca1ecdccbe076116f9c4dc13e7[m
+Author: João Vitor <joaovitor16.dev@gmail.com>
+Date:   Sun Jan 12 21:26:54 2025 -0300
+
+    Remoção da voz no programa
+
+[33mcommit 5691a24a7032c1f3c053fccb35610617b54c866c[m
+Author: João Vitor <joaovitor16.dev@gmail.com>
+Date:   Sun Jan 12 21:17:57 2025 -0300
+
+    Mudando o range do número secreto para 50
+
+[33mcommit 613152e309f2dd5e181da3f44f2747d000d3f6dd[m
+Author: João Vitor <joaovitor16.dev@gmail.com>
+Date:   Sun Jan 12 20:04:17 2025 -0300
+
+    projeto incial
